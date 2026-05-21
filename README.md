@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Claude_AI_logo.svg/250px-Claude_AI_logo.svg.png" width="250" alt="Claude AI Logo">
-</p>
-
 # Anthropic Claude Developer Credentials
+
+
 ---
 ## Course Catalog & Purposes
 ### 🦾 Agentic AI & Developer Tools
