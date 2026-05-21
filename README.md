@@ -1,4 +1,4 @@
-# Anthropic Claude Developer Credentials
+# <img src="https://raw.githubusercontent.com/dentonw/anthropic-logos/main/logos/anthropic_logo.svg" width="300" alt="Anthropic Logo" valign="middle"> Claude Developer Credentials
 
 ## Purpose
 Showcase of my completed Anthropic & Claude AI course certificates and technical credentials.
